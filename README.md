@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends
 
-![Outcomes_based_on_Launch_Dates](rjchiang/kickstarter-analysis/Outcomes_based_on_Launch_Dates.png)
+![Outcomes based_on_Launch_Dates](rjchiang/kickstarter-analysis/Outcomes based on Launch Dates.png)
 
-![Parent_Category_Outcomes](rjchiang/kickstarter-analysis/Parent_Category_Outcomes.png)
+![Parent_Category_Outcomes](rjchiang/kickstarter-analysis/Parent Category Outcomes.png)
