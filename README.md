@@ -10,7 +10,7 @@ different campaigns fared in relation to their launch dates and their funding go
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date
+### Analysis of Outcomes Based on Launch Dates
 First, I gathered the years from the converted launch dates, and created a pivot table featuring theater outcomes based
 on their launch date, with filters of parent category and years and showing outcomes that are successful, failed, and 
 canceled. With theater as parent category, I formed a line chart of the outcomes. Although I placed the fields in the
