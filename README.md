@@ -17,7 +17,7 @@ canceled. With theater as parent category, I formed a line chart of the outcomes
 right areas, I was worried about the date created conversion at first, because it was not in the proper format that
 time. However, I just needed only the months, so it was no longer a problem.
 
-![Outcomes Based on Launch Dates] (https://github.com/rjchiang/kickstarter-analysis/blob/master/Outcomes%20based%20on%20Launch%20Dates.png)
+![Theater Outcomes Based on Launch Date](https://github.com/rjchiang/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 As a starting point, I created a new sheet featuring outcomes based on goals, featuing wide dollar-amount ranges for
